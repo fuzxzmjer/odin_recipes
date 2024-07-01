@@ -1,1 +1,2 @@
 # odin_recipes
+This project is for the foundations recipes lesson on the Odin Project website. The function of the website will be a basic recipes website. It will use links and pictures to show basic HTML coding 
